@@ -1,0 +1,25 @@
+Branch GitHub
+
+FerishaAdilla@LAPTOP-50OVEHFB MINGW64 /c/xampp/htdocs/backend
+$ git init .
+
+FerishaAdilla@LAPTOP-50OVEHFB MINGW64 /c/xampp/htdocs/backend (main)
+$ git branch -M Pertemuan6
+
+FerishaAdilla@LAPTOP-50OVEHFB MINGW64 /c/xampp/htdocs/backend (Pertemuan6)
+$ git init 
+
+FerishaAdilla@LAPTOP-50OVEHFB MINGW64 /c/xampp/htdocs/backend (Pertemuan6)
+$ git add .
+
+FerishaAdilla@LAPTOP-50OVEHFB MINGW64 /c/xampp/htdocs/backend (Pertemuan6)
+$ git commit -m "praktikum 6"
+
+FerishaAdilla@LAPTOP-50OVEHFB MINGW64 /c/xampp/htdocs/backend (Pertemuan6)
+$ git remote add origin isi link github
+
+FerishaAdilla@LAPTOP-50OVEHFB MINGW64 /c/xampp/htdocs/backend (Pertemuan6)
+$ git push origin Pertemuan6
+
+FerishaAdilla@LAPTOP-50OVEHFB MINGW64 /c/xampp/htdocs/backend (Pertemuan6)
+$
